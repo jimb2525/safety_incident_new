@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cxs_rp_config">
+    <cxs_rp_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <allow_expand_collapse>true</allow_expand_collapse>
+        <cxs_context_config display_value="Request Search Context">2c9948231b68f450aedf54252a4bcbe6</cxs_context_config>
+        <limit>10</limit>
+        <name>Report Safety Issue</name>
+        <results_header_text>Related Search Results</results_header_text>
+        <results_per_page>10</results_per_page>
+        <sc_cat_item display_value="Report Safety Issue">0e242042dbdcf010f1860f95ca9619f7</sc_cat_item>
+        <search_variable display_value="This is a search test">0db4d4af1b68f450aedf54252a4bcb54</search_variable>
+        <sys_class_name>cxs_rp_config</sys_class_name>
+        <sys_created_by>james.belote</sys_created_by>
+        <sys_created_on>2021-06-10 18:33:45</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>40f458af1b68f450aedf54252a4bcb62</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Report Safety Issue</sys_name>
+        <sys_package display_value="Safety Incident" source="x_snc_safety_inc_1">a8c64c06db1cf010f1860f95ca961976</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety Incident">a8c64c06db1cf010f1860f95ca961976</sys_scope>
+        <sys_update_name>cxs_rp_config_40f458af1b68f450aedf54252a4bcb62</sys_update_name>
+        <sys_updated_by>james.belote</sys_updated_by>
+        <sys_updated_on>2021-06-10 18:33:45</sys_updated_on>
+    </cxs_rp_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=40f458af1b68f450aedf54252a4bcb62"/>
+</record_update>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="Safety Incident">7ab0accadb9cf010f1860f95ca961903</applet_launcher>
+        <icon display_value="Home Safety Incident">f6b0accadb9cf010f1860f95ca961904</icon>
+        <label>Safety Incident</label>
+        <roles/>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>james.belote</sys_created_by>
+        <sys_created_on>2021-05-24 17:18:28</sys_created_on>
+        <sys_id>b6b0accadb9cf010f1860f95ca961904</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Safety Incident</sys_name>
+        <sys_package display_value="Safety Incident" source="x_snc_safety_inc_1">a8c64c06db1cf010f1860f95ca961976</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety Incident">a8c64c06db1cf010f1860f95ca961976</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_b6b0accadb9cf010f1860f95ca961904</sys_update_name>
+        <sys_updated_by>james.belote</sys_updated_by>
+        <sys_updated_on>2021-05-24 17:18:28</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+</record_update>

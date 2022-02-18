@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_panel>0e2b40cac01cf010e92bc9117afea291</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes/>
+        <page/>
+        <path>safety-incident-workspace</path>
+        <root_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>james.belote</sys_created_by>
+        <sys_created_on>2021-05-24 15:44:13</sys_created_on>
+        <sys_id>0a2b40ca591cf01081eed963c0f2fa93</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Safety Incident Workspace</sys_name>
+        <sys_package display_value="Safety Incident" source="x_snc_safety_inc_1">a8c64c06db1cf010f1860f95ca961976</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety Incident">a8c64c06db1cf010f1860f95ca961976</sys_scope>
+        <sys_update_name>sys_ux_page_registry_0a2b40ca591cf01081eed963c0f2fa93</sys_update_name>
+        <sys_updated_by>james.belote</sys_updated_by>
+        <sys_updated_on>2021-05-24 15:44:13</sys_updated_on>
+        <title>Safety Incident Workspace</title>
+    </sys_ux_page_registry>
+</record_update>

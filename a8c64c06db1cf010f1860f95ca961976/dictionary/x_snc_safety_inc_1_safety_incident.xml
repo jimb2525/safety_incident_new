@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="Safety Incident" max_length="40" name="x_snc_safety_inc_1_safety_incident" sizeclass="5" type="collection">
+        <element label="Affected Employee" max_length="32" name="affected_employee" reference="sys_user" type="reference"/>
+        <element label="Emergency Contact Name" max_length="40" name="emergency_contact_name" type="string"/>
+        <element label="Emergency Contact Number" max_length="40" name="emergency_contact_number" type="string"/>
+        <element choice="1" label="Incident Type" max_length="40" name="incident_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Accident" sequence="10" value="accident"/>
+                <element inactive_on_update="false" label="Property Damage" sequence="20" value="property_damage"/>
+            </choice>
+        </element>
+    </element>
+</database>

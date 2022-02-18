@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Report Safety Issue">0e242042dbdcf010f1860f95ca9619f7</catalog_item>
+        <catalog_variable>IO:88756882dbdcf010f1860f95ca961998</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>james.belote</sys_created_by>
+        <sys_created_on>2021-05-24 17:41:40</sys_created_on>
+        <sys_id>2a062006dbdcf010f1860f95ca9619ba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>affected_employee</sys_name>
+        <sys_package display_value="Safety Incident" source="x_snc_safety_inc_1">a8c64c06db1cf010f1860f95ca961976</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety Incident">a8c64c06db1cf010f1860f95ca961976</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_2a062006dbdcf010f1860f95ca9619ba</sys_update_name>
+        <sys_updated_by>james.belote</sys_updated_by>
+        <sys_updated_on>2021-05-24 17:41:40</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Report Safety Issue UI Policy">a3f5ecc2dbdcf010f1860f95ca96192e</ui_policy>
+        <variable>affected_employee</variable>
+        <variable_set/>
+        <visible>ignore</visible>
+    </catalog_ui_policy_action>
+</record_update>

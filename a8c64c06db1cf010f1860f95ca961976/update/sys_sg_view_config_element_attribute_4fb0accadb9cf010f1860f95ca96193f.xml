@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element_attribute">
+    <sys_sg_view_config_element_attribute action="INSERT_OR_UPDATE">
+        <description/>
+        <name display_value="FieldValue">c2eed5c2b7321010df65f6efce11a9cf</name>
+        <sys_class_name>sys_sg_view_config_element_attribute</sys_class_name>
+        <sys_created_by>james.belote</sys_created_by>
+        <sys_created_on>2021-05-24 17:18:28</sys_created_on>
+        <sys_id>4fb0accadb9cf010f1860f95ca96193f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c2eed5c2b7321010df65f6efce11a9cf</sys_name>
+        <sys_package display_value="Safety Incident" source="x_snc_safety_inc_1">a8c64c06db1cf010f1860f95ca961976</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety Incident">a8c64c06db1cf010f1860f95ca961976</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_attribute_4fb0accadb9cf010f1860f95ca96193f</sys_update_name>
+        <sys_updated_by>james.belote</sys_updated_by>
+        <sys_updated_on>2021-05-24 17:18:28</sys_updated_on>
+        <translated_value/>
+        <value>state</value>
+        <view_config_element display_value="state-FieldValue">c3b0accadb9cf010f1860f95ca96193e</view_config_element>
+    </sys_sg_view_config_element_attribute>
+</record_update>
